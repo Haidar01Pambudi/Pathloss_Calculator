@@ -236,21 +236,6 @@ while True:
 
 
     Lanjut()
-
-
-# while True:
-#     try:
-
-# except ValueError:
-#     # Handling the exception
-#     print("Error: Value didnt match")
-#     print("<=======================================================>")
-#     y_n = input("Lanjut atau Tidak? [y/n]")
-#     try:
-#         Lanjut(y_n)
-#     except ValueError:
-#         print("Input Salah!!!")
-#         break
         
         
 
